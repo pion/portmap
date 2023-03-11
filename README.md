@@ -5,9 +5,10 @@
 </h1>
 <h4 align="center">A Go implementation of UPnP-IGD, NAT-PMP and PCP</h4>
 <p align="center">
+  <a href="https://pion.ly"><img src="https://img.shields.io/badge/pion-portmap-gray.svg?longCache=true&colorB=brightgreen" alt="Pion Portmap"></a>
   <a href="http://gophers.slack.com/messages/pion"><img src="https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=brightgreen" alt="Slack Widget"></a>
   <br>
-  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/pion/portmap/test">
+  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/pion/portmap/test.yaml">
   <a href="https://pkg.go.dev/github.com/pion/portmap"><img src="https://pkg.go.dev/badge/github.com/pion/portmap.svg" alt="Go Reference"></a>
   <a href="https://codecov.io/gh/pion/portmap"><img src="https://codecov.io/gh/pion/portmap/branch/master/graph/badge.svg" alt="Coverage Status"></a>
   <a href="https://goreportcard.com/report/github.com/pion/portmap"><img src="https://goreportcard.com/badge/github.com/pion/portmap" alt="Go Report Card"></a>
