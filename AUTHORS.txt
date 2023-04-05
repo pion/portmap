@@ -6,3 +6,4 @@
 Steffen Vogel <post@steffenvogel.de>
 
 # List of contributors not appearing in Git history
+

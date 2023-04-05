@@ -16,12 +16,15 @@
 </p>
 <br>
 
-### Supported RFCs
-This package aims to implement clients and servers for the following protocols:
+### RFCs
+#### Implemented
+- **RFC 6970:** [Universal Plug and Play (UPnP) Internet Gateway Device - Port Control Protocol Interworking Function (IGD-PCP IWF)][rfc6970]
+- **RFC 6886:** [NAT Port Mapping Protocol (NAT-PMP)][rfc6886]
+- **RFC 6887:** [Port Control Protocol (PCP)][rfc6887]
 
-- **RFC6970:** [Universal Plug and Play (UPnP) Internet Gateway Device - Port Control Protocol Interworking Function (IGD-PCP IWF)](https://datatracker.ietf.org/doc/html/rfc6970)
-- **RFC6886:** [NAT Port Mapping Protocol (NAT-PMP)](https://datatracker.ietf.org/doc/html/rfc6886)
-- **RFC6887:** [Port Control Protocol (PCP)](https://datatracker.ietf.org/doc/html/rfc6887)
+[rfc6970]: https://tools.ietf.org/html/rfc6970
+[rfc6886]: https://tools.ietf.org/html/rfc6886
+[rfc6887]: https://tools.ietf.org/html/rfc6887
 
 ### Roadmap
 The library is used as a part of our WebRTC implementation. Please refer to that [roadmap](https://github.com/pion/webrtc/issues/9) to track our major milestones.
@@ -35,7 +38,7 @@ We are always looking to support **your projects**. Please reach out if you have
 If you need commercial support or don't want to use public methods you can contact us at [team@pion.ly](mailto:team@pion.ly)
 
 ### Contributing
-Check out the **[contributing wiki](https://github.com/pion/webrtc/wiki/Contributing)** to join the group of amazing people making this project possible: [AUTHORS.txt](./AUTHORS.txt)
+Check out the [contributing wiki](https://github.com/pion/webrtc/wiki/Contributing) to join the group of amazing people making this project possible: [AUTHORS.txt](./AUTHORS.txt)
 
 ### License
 MIT License - see [LICENSE](LICENSE) for full text
